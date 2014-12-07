@@ -3,7 +3,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   color: #6f6f6f;
-  background: url("http://garnetplant.qiniudn.com/img/homepage/bgpic.png") no-repeat scroll 0 0 / cover  rgba(0, 0, 0, 0);
+  background: url("http://garnetplant.qiniudn.com/img/homepage/bgpic.png") no-repeat fixed 0 0 / cover  rgba(0, 0, 0, 0);
 }
 body {
   margin: 0;
