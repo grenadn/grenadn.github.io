@@ -6686,3 +6686,7 @@ a.uk-datepicker-table-muted {
 .uk-dragover {
   box-shadow: 0 0 20px rgba(100, 100, 100, 0.3);
 }
+/*自定义*/
+.uk-navbar-center {
+  max-width: 70%;
+}
