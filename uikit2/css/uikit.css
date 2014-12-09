@@ -4,9 +4,13 @@ html {
   -ms-text-size-adjust: 100%;
   color: #6f6f6f;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background: #ffffff;
 =======
 >>>>>>> a738821f234339d3adfc78a1df59be8040cd671a
+=======
+  background: url("http://garnetplant.qiniudn.com/img/homepage/bgpic.png") no-repeat fixed 0 0 / cover  rgba(0, 0, 0, 0);
+>>>>>>> parent of cd8b4c3... no message
 }
 body {
   margin: 0;
